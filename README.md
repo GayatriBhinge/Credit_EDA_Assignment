@@ -26,11 +26,8 @@ PYTHON, NUMPY, PANDAS, MATPLOTLIP, SEABORN, PPT PRESENTAION
 
 ![App Screenshot](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/Slide63.JPG)
 
-## Please check detailed PDF on below link
-[path/to/your/file.pdf](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/EDA_CREDIT_ASSIGNMENT_GayatriBhinge.pdf)
+## Please check detailed PDF and Python code on below link
+[PDF](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/EDA_CREDIT_ASSIGNMENT_GayatriBhinge.pdf)
+[Jupyter Notebook](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/EDA_CREADIT_ASSIGNMENT_GayatriBhinge.ipynb)
 
-
-# R² Values are important in Forecasting Data
-What is R² ?
-R-Squared (R² or the coefficient of determination) is a statistical measure in a regression model that determines the proportion of variance in the dependent variable that can be explained by the independent variable. In other words, r-squared shows how well the data fit the regression model (the goodness of fit). This values is always between 0 to 1.
-
+#Thank You!!
