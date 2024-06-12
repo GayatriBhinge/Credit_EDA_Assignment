@@ -3,22 +3,18 @@
 
 The assignment is done in association with IIITB, focusing on banking and financial services, specifically loan applications data.
 
-## Acknowledgements
-Thanks to Rishabh Mishra.
-
-
 ## 🚀 About Me
 Hi, I'm Gayatri, and  as a data analyst, I'm  passionate about Data Analytics and also pursuing a PG Program at IIITB Data Science. 
 
 
 ## 🛠 Skills
-POSTGRESQL, SQL, EXCELL, PYTHON, DATA ANALYSING, EDA.
+PYTHON, NUMPY, PANDAS, MATPLOTLIP, 
+SEABORN, PPT PRESENTAION
 
 
-# Graphs
+# Graphs and Insites
 
-## Line Graph
-Here R² = 0.0.686, this value is more that 0.5 but do not have much confidance about forecast with this line graph.
+
 ![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_LineGraph.PNG)
 
 ## Exponentail Graph
