@@ -28,6 +28,7 @@ PYTHON, NUMPY, PANDAS, MATPLOTLIP, SEABORN, PPT PRESENTAION
 
 ## Please check detailed PDF and Python code on below link
 [PDF](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/EDA_CREDIT_ASSIGNMENT_GayatriBhinge.pdf)
+<br>
 [Jupyter Notebook](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/EDA_CREADIT_ASSIGNMENT_GayatriBhinge.ipynb)
 
 #Thank You!!
