@@ -27,7 +27,7 @@ PYTHON, NUMPY, PANDAS, MATPLOTLIP, SEABORN, PPT PRESENTAION
 ![App Screenshot](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/Slide63.JPG)
 
 ## Please check detailed PDF on below link
-[PDF LINK]([path/to/your/file.pdf](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/EDA_CREDIT_ASSIGNMENT_GayatriBhinge.pdf))
+[path/to/your/file.pdf](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/EDA_CREDIT_ASSIGNMENT_GayatriBhinge.pdf)
 
 
 # R² Values are important in Forecasting Data
