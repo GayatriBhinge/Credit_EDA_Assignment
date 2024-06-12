@@ -1,7 +1,7 @@
 
-# Excel Project | Youtube Views Forecast Data with Graphs
+# Credit Exploratory data analysis
 
-This project is to analyze the youtube channel viewers database. Here I forcast data for next 7 days with help of the Excel skill, also try to provide  more accurate forecasting using R square value and different graphs, like, Line, Polynomial, exponential graph.
+The assignment is done in association with IIITB, focusing on banking and financial services, specifically loan applications data.
 
 ## Acknowledgements
 Thanks to Rishabh Mishra.
