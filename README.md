@@ -1,6 +1,7 @@
 
 # Credit Exploratory data analysis
 
+
 The assignment is done in association with IIITB, focusing on banking and financial services, specifically loan applications data.
 
 ## 🚀 About Me
@@ -8,22 +9,25 @@ Hi, I'm Gayatri, and  as a data analyst, I'm  passionate about Data Analytics an
 
 
 ## 🛠 Skills
-PYTHON, NUMPY, PANDAS, MATPLOTLIP, 
-SEABORN, PPT PRESENTAION
-
+PYTHON, NUMPY, PANDAS, MATPLOTLIP, SEABORN, PPT PRESENTAION
 
 # Graphs and Insites
+![App Screenshot](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/Slide1.JPG)
 
+![App Screenshot](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/Slide2.JPG)
 
-![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_LineGraph.PNG)
+![App Screenshot](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/Slide3.JPG)
 
-## Exponentail Graph
-Here R² = 0.563, not much confidnace about forecast with this Expontail graph
-![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_exponential.PNG)
+![App Screenshot](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/Slide13.JPG)
 
-## Polynomial Graph
-Here R² = 0.782, this value is near to 1 so having 85% confidance about forecast with this polynomial graph.
-![App Screenshot](https://github.com/GayatriBhinge/Youtube_viwes_ForeCast_Project_Excell_/blob/main/Forecast_PolynomialGraph.PNG)
+![App Screenshot](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/Slide14.JPG)
+
+![App Screenshot](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/Slide62.JPG)
+
+![App Screenshot](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/Slide63.JPG)
+
+## Please check detailed PDF on below link
+[PDF LINK]([path/to/your/file.pdf](https://github.com/GayatriBhinge/Credit_EDA_Assignment/blob/main/EDA_CREDIT_ASSIGNMENT_GayatriBhinge.pdf))
 
 
 # R² Values are important in Forecasting Data
